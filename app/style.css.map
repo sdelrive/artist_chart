@@ -6,7 +6,8 @@
         "_header.scss",
         "_footer.scss",
         "_musica.scss",
-        "_animaciones.scss"
+        "_animaciones.scss",
+        "_variables.scss"
     ],
     "names": [],
     "file": "style.css"

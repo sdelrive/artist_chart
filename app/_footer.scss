@@ -11,8 +11,8 @@
       margin-top: 50px;
       font-size: 80%;
     }
-}
 
+    
 .logos{
     display: flex;
     justify-content: center;
@@ -21,7 +21,7 @@
 }
 
 .logos p{
-    color: rgb(194, 194, 194);
+    color: $weird-gray;
     margin-left: 50px;
     font-size: 50%;
 }
@@ -31,7 +31,7 @@
     height: 40px;
     width: 40px;
     display: inline-block;
-    background-color:rgb(194, 194, 194);
+    background-color:$weird-gray;
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
@@ -47,3 +47,6 @@
 .logos a:last-child{
     margin-right: 50px;
 }
+    
+}
+

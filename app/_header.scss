@@ -72,7 +72,7 @@
         display: block;
         text-align: center;
         padding: 0.625rem;
-        transition: 200ms ease-in-out;
+        transition: $tr-200-eo;
 
        } 
        >a:hover{
@@ -86,7 +86,7 @@
         color:white;
         font-size: 1rem;
 
-        transition: 200ms ease-in-out;
+        transition: $tr-200-eo;
         &:hover{
             color: #54E8C7;
 
@@ -105,7 +105,7 @@
             font-size: .9rem;;
             font-weight: 500;
             margin-right: 20px;
-            transition: 200ms ease-in-out;
+            transition: $tr-200-eo;
 
             &:hover{
                 color: #54E8C7;
